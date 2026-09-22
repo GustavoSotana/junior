@@ -1,1 +1,3 @@
-Jovem nerd, Ele quer um sistema de estoque para a loja de action figures dele.
+# Ignorar configurações e senhas locais
+.env
+node_modules/
